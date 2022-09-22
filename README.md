@@ -1,2 +1,3 @@
 # Estrutura-de-Dados
-Matéria de Análise e Desenvolvimento de Sistemas
+Neste repositório há projetos criados em sala de aula durante as aulas de Estrutura de Dados
+
