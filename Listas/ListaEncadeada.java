@@ -1,7 +1,7 @@
 import java.util.LinkedList;
 
 
-public class App {
+public class ListaEncadeada {
     public static void main(String[] args) throws Exception {
         LinkedList<String> nome = new LinkedList<>();
         // Foi adicionado na primeira posição da lista
