@@ -8,6 +8,9 @@ public class EstruturaPilha {
         oT.push(3);
         oT.listar();
 
+        System.out.println(oT.primeiro());
+        System.out.println(oT.ultimo());
+
     }
 
 }
