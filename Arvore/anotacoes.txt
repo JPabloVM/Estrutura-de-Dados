@@ -1,0 +1,13 @@
+Arvores:
+Podemos representar arvores como 
+Apenas arvores - Não há quantidade delimitada de filhos
+Arvores binarias que são arvores que cada nó pode ter apenas 2 filhos
+
+Elementos das arvores:
+Nó: Elemento que contém a informação
+ARco: Liga dois nós
+Pai: Nó superior de um arco
+Filho: Nó inferior de um arco
+Raiz: nó topo - n tem um nó pai
+
+abdcehigf
